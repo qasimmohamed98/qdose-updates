@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.1.1",
-  "apkUrl": "https://github.com/qasimmohamed98/qdose-updates/releases/download/v1.1.1/qdose-v1.1.1.apk",
-  "notes": "إصلاح مسح رمز QR لاستقبال المشاركة، قوائم منسدلة لسجلات الرعاية ونوع الأنسولين، إصلاح تراكب الأزرار مع الأسماء الطويلة، تحسين تباين الأزرار، وقائمة أدوية عراقية شائعة للاقتراح التلقائي."
+  "versionCode": 5,
+  "versionName": "1.2.0",
+  "apkUrl": "https://github.com/qasimmohamed98/qdose-updates/releases/download/v1.2.0/qdose-v1.2.0.apk",
+  "notes": "تعديل الأدوية والسجلات الصحية بعد إضافتها، رسوم بيانية لتتبع السكر وضغط الدم، نغمات تنبيه أطول قابلة للاختيار، وتنبيه فوري عند توفر تحديث جديد."
 }
