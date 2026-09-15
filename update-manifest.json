@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.5.0",
-  "apkUrl": "https://github.com/qasimmohamed98/qdose-updates/releases/download/v1.5.0/qdose-v1.5.0.apk",
-  "notes": "إصلاح تعليق المزامنة عند مشاركة رمز QR بين المشارك والشريك، وإظهار سبب فشل المزامنة بالتفصيل بدل رسالة عامة، مع إضافة مهلة أمان تلقائية لإيقاف مؤشر التحميل عند تعذر الاتصال."
+  "versionCode": 9,
+  "versionName": "1.6.0",
+  "apkUrl": "https://github.com/qasimmohamed98/qdose-updates/releases/download/v1.6.0/qdose-v1.6.0.apk",
+  "notes": "تحويل جميع أوقات التطبيق (الجرعات، السجلات، التقارير، آخر مزامنة) من نظام 24 ساعة إلى نظام 12 ساعة (صباحاً/مساءً)."
 }
